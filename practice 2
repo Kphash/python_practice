@@ -22,3 +22,9 @@ else:
     for i in range(1,num + 1):
         factorial = factorial*i
     print("The factorial of",num,"is",factorial)
+    
+    
+    explanation:
+    
+    the if statement confirms that the num variable is not zero and then the else checks for the numbers using the range function then assigns a new 
+    value to the factorial and for every iteration it multiplies the new favtorial with the old within the range.
